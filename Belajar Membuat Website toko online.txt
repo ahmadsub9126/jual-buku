@@ -1,0 +1,5 @@
+*Langkah pertama*
+1. Siapkan VSCode
+2. Install Extensi Live streamer
+3. Mempersiapkan bahan seperti gambar
+4. Bootstrap
